@@ -19,7 +19,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/ChainForge.git
+   git clone https://github.com/irl-os/ChainForge.git
    cd ChainForge
    ```
 
