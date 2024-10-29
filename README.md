@@ -1,10 +1,3 @@
-
-A fun name for the project could be **ChainForge**—a nod to forging unique blockchain addresses with specified patterns!
-
-Here's a sample `README.md` file for the project.
-
----
-
 # ChainForge 🔗🔥
 
 **ChainForge** is an open-source command-line tool to generate blockchain addresses with customizable prefixes or suffixes. Perfect for those who want personalized wallet addresses for different blockchains! Currently, **Solana** is supported, with placeholders for **Bitcoin SV (BSV)**, **Fractal Bitcoin (fBTC)**, and **Bitcoin Cash (BCH)**.
